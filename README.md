@@ -2,7 +2,7 @@
 
 all of thy very sophisticated mods
 
-#Sophisticated Anti Modded
+# Sophisticated Anti Modded
 
 it prevents you from joining modded lobbies if i coded it right if i didnt you cant join a single lobby.
 
